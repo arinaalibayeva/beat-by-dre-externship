@@ -1,0 +1,15 @@
+# Python + notebooks noise
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.env
+.DS_Store
+
+# Data: keep only tiny samples
+data/*
+!data/sample_*.csv
+
+# Logs and local clutter
+*.log
+.vscode/
