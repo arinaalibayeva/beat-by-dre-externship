@@ -32,19 +32,6 @@ The objective was to strengthen analytical proficiency by working with real cons
 | **Recommendations** | Interpreted results to provide brand-level strategic guidance. | Narrative + visualization |
 
 
-## 📂 Project Structure
-.
-├── notebooks/
-│ └── beat-by-dre-analysis.ipynb
-├── data/
-│ └── sample_reviews.csv
-├── figures/
-│ ├── sentiment_by_product.png
-│ ├── top_topics.png
-│ └── wordcloud_positive.png
-├── requirements.txt
-└── README.md
-
 ## 📊 Key Results
 
 - **Dataset size:** ~5,000 Amazon reviews across multiple Beats product categories  
@@ -83,11 +70,11 @@ Tools: Jupyter Notebook, GitHub
 Data Source: Amazon product reviews (scraped for educational use)
 
 🪄 Strategic Insights
-Design and comfort drive brand loyalty — repeated across positive reviews.
+Design and comfort drive brand loyalty, as evident in repeated positive reviews.
 
 Battery life and pricing generate the bulk of negative sentiment; opportunities exist for communication and product improvement.
 
-AI summarization suggests potential marketing focus on durability messaging and sound innovation positioning.
+AI summarization suggests a potential marketing focus on durability messaging and sound innovation positioning.
 
 📚 Learning Outcomes
 Built an automated workflow for text data extraction and cleaning.
