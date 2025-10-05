@@ -40,25 +40,5 @@ The objective was to strengthen analytical proficiency by working with real cons
 - **Negative drivers:** *battery life*, *price*, *durability concerns*  
 - **AI-generated summaries** highlighted that most positive reviews emphasized brand reputation and comfort, while negative feedback focused on price–performance balance and longevity.
 
-
-## ⚙️ How to Run
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/arinaalibayeva/beat-by-dre-externship.git
-   cd beat-by-dre-externship
-Install dependencies
-
-bash
-Copy code
-pip install -r requirements.txt
-Open and run the notebook
-
-Launch Jupyter Lab or VS Code.
-
-Open notebooks/beat-by-dre-analysis.ipynb.
-
-Run cells sequentially to reproduce the analysis.
-
 _This project was created for educational purposes during the Beats by Dre Consumer Insights Externship.
 All data were collected and analyzed solely for learning and non-commercial research use._
