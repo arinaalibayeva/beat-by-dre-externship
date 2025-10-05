@@ -34,11 +34,11 @@ The objective was to strengthen analytical proficiency by working with real cons
 
 ## 📊 Key Results
 
-- **Dataset size:** ~5,000 Amazon reviews across multiple Beats product categories  
-- **Sentiment distribution:** ~72 % positive, 18 % neutral, 10 % negative  
-- **Positive themes:** *sound quality*, *design aesthetics*, *comfort*  
+- **Dataset size:** ~1,000 Amazon reviews across 10 products (including Beats and key competitors)  
+- **Sentiment distribution:** 92.6 % positive, 5.0 % neutral, 2.4 % negative  
+- **Positive themes:** *sound quality*, *comfort*, *design aesthetics*  
 - **Negative drivers:** *battery life*, *price*, *durability concerns*  
-- **AI-generated summaries** highlighted that most positive reviews mention brand reputation and aesthetics, while critical ones focus on price–performance balance.
+- **AI-generated summaries** highlighted that most positive reviews emphasized brand reputation and comfort, while negative feedback focused on price–performance balance and longevity.
 
 
 ## ⚙️ How to Run
