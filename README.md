@@ -60,29 +60,5 @@ Open notebooks/beat-by-dre-analysis.ipynb.
 
 Run cells sequentially to reproduce the analysis.
 
-🧰 Tech Stack
-Languages: Python
-
-Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, nltk, beautifulsoup4, requests
-
-Tools: Jupyter Notebook, GitHub
-
-Data Source: Amazon product reviews (scraped for educational use)
-
-🪄 Strategic Insights
-Design and comfort drive brand loyalty, as evident in repeated positive reviews.
-
-Battery life and pricing generate the bulk of negative sentiment; opportunities exist for communication and product improvement.
-
-AI summarization suggests a potential marketing focus on durability messaging and sound innovation positioning.
-
-📚 Learning Outcomes
-Built an automated workflow for text data extraction and cleaning.
-
-Applied NLP techniques for real-world consumer sentiment analysis.
-
-Learned to connect quantitative metrics with qualitative brand strategy.
-
-
-This project was created for educational purposes during the Beats by Dre Consumer Insights Externship.
-All data were collected and analyzed solely for learning and non-commercial research use.
+_This project was created for educational purposes during the Beats by Dre Consumer Insights Externship.
+All data were collected and analyzed solely for learning and non-commercial research use._
